@@ -1,2 +1,2 @@
 # Paint-It-Java-Drawing-App
-A Drawing App developed by Java Swing
+An Academic project:  Drawing App developed by JavaFx
